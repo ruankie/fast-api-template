@@ -6,4 +6,4 @@ dependencies:
     - jupyterlab>=3.4
     - fastapi>=0.88
     - uvicorn[standard]>=0.20
-    # - -e .
+    - -e .
