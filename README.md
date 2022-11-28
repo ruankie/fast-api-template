@@ -16,4 +16,5 @@ conda activate fast-api
 
 # References
 - [FastAPI Docs](https://fastapi.tiangolo.com/tutorial/)
+- [Data Samples](https://people.sc.fsu.edu/~jburkardt/data/csv/csv.html)
 - [YouTube video by *Tech With Tim*](https://www.youtube.com/watch?v=-ykeT6kk4bk&t=2543s)
