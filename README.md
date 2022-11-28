@@ -13,6 +13,11 @@ conda env create -f conda.yml
 conda activate fast-api
 ```
 3. Make desired changes
+4. Run server to check changes
+```bash
+cd src
+uvicorn main:app --reload
+```
 
 # References
 - [FastAPI Docs](https://fastapi.tiangolo.com/tutorial/)
