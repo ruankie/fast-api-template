@@ -1,0 +1,9 @@
+name: fast-api
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - jupyterlab>=3.4
+    - fastapi>=0.88
+    - uvicorn[standard]>=0.20
+    # - -e .
